@@ -1,4 +1,4 @@
-## I'm Logan ##
+### I'm Logan
 
 I often struggle with the "tell me about yourself" question. My interests pull me in a thousand different directions while my perfectionism holds me back. The former is incredibly important to me &mdash; my interests and hobbies are what give me life. The perfectionism, I could do without. But the perfectionism is also integral to who I am, how I think, and my journey thus far.
 
