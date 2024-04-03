@@ -10,20 +10,22 @@ The idea of a personal database lived in my head for a couple months. I finally 
 
 I started thinking about applications for my own personal database. I came up with a number of areas where I hope to gain insights from collecting my own data, and I'm sure I'll come up with more over time. I really like Talithia's personal health database. I've had questions about my own health and sleep quality, so this is a big one for me. I also like the idea of habit trackers. I always hear about the importance of good habits, but never built systems to support those habits. I hypothesize that building a habit tracker into my personal database will create a more powerful incentive to adhere to those habits. At the very least, I'll get some insight about my tendencies. 
 
-- Sleep
+Here are some of the topics and questions I want to explore:
+
+- **Sleep**
     - How much sleep do I need? 
     - How well am I sleeping on a given night?
     - What does a solid sleep schedule do for me?
     - What happens when I introduce caffeine?
-- Behavior
+- **Behavior**
     - Can I create, reinforce, and measure impacts of my habits?
         - Time spent outdoors, workouts, productivity, reading, journaling, screen time, etc.
-- Mood
+- **Mood**
     - What factors affect my mood? 
     - Can I create conditions that improve my general mood?
-- Health
+- **Health**
     - How do weight, temperature, heart rate, etc. change with my behaviors?
-- Environmental Factors
+- **Environmental Factors**
     - How am I affected by weather, room temperature, air quality, etc.?
 
 I think many people would put "Diet" somewhere in the list above, but I've tracked meals before and am not interested in doing that again at this time. I do have plenty of questions relating to my diet, so I'll consider adding it once I build out a better meal planning system for myself. For now, it would be too monumental a time commitment.
@@ -31,7 +33,9 @@ I think many people would put "Diet" somewhere in the list above, but I've track
 
 ### Methodology
 
-I first put together a simple database from a template in Notion. I has checkboxes for a variety of habits, a couple of string fields for numerical data, and a multi-select for mood data. In the meantime, I started brainstorming an extremely flexible app that would allow me to build out any type of habit tracker I wanted. Thankfully I didn't get too far down the Swift development rabbit hole before Googling my app concept. I found Reflect, which does virtually everything I would have built into my app. I also found the [Quantified Self subreddit](https://www.reddit.com/r/QuantifiedSelf/), which is a community of folks conducting similar studies on themselves. The subreddit is not incredibly active, but it has good resources. Folks have posted incredibly detailed information about the results of their own experiments as well as reviews of things like tracking devices and supplements.
+I first put together a simple database from a template in Notion. I has checkboxes for a variety of habits, a couple of string fields for numerical data, and a multi-select for mood data. It adds an empty row each evening for me to fill in, but I have to remember to do so. In the meantime, I started brainstorming an extremely flexible app that would allow me to build out any type of habit tracker I wanted. Thankfully I didn't get too far down the Swift development rabbit hole before Googling my app concept. I found [Reflect](https://www.reddit.com/r/QuantifiedSelf/comments/179mlh0/reflect_ios_app_to_track_anything/), which does virtually everything I would have built into my app. I also found the [Quantified Self subreddit](https://www.reddit.com/r/QuantifiedSelf/), which is a community of folks conducting similar studies on themselves. The subreddit is not incredibly active, but it has good resources. Folks have posted incredibly detailed information about the results of their own experiments as well as reviews of things like tracking devices and supplements. I'll use the subreddit as a reference as I explore analyses and choose a daily wearable.
+
+
 
 
 
