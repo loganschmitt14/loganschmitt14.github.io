@@ -33,7 +33,32 @@ I think many people would put "Diet" somewhere in the list above, but I've track
 
 ### Methodology
 
-I first put together a simple database from a template in Notion. I has checkboxes for a variety of habits, a couple of string fields for numerical data, and a multi-select for mood data. It adds an empty row each evening for me to fill in, but I have to remember to do so. In the meantime, I started brainstorming an extremely flexible app that would allow me to build out any type of habit tracker I wanted. Thankfully I didn't get too far down the Swift development rabbit hole before Googling my app concept. I found [Reflect](https://www.reddit.com/r/QuantifiedSelf/comments/179mlh0/reflect_ios_app_to_track_anything/), which does virtually everything I would have built into my app. I also found the [Quantified Self subreddit](https://www.reddit.com/r/QuantifiedSelf/), which is a community of folks conducting similar studies on themselves. The subreddit is not incredibly active, but it has good resources. Folks have posted incredibly detailed information about the results of their own experiments as well as reviews of things like tracking devices and supplements. I'll use the subreddit as a reference as I explore analyses and choose a daily wearable.
+
+#### Behavioral Data Collection
+
+I first put together a simple database from a template in Notion. I has checkboxes for a variety of habits, a couple of string fields for numerical data, and a multi-select for mood data. It adds an empty row each evening for me to fill in, but I have to remember to do so. In the meantime, I started brainstorming an extremely flexible app that would allow me to build out any type of habit tracker I wanted. Thankfully I didn't get too far down the Swift development rabbit hole before Googling my app concept.
+
+I then found [Reflect](https://www.reddit.com/r/QuantifiedSelf/comments/179mlh0/reflect_ios_app_to_track_anything/), which does virtually everything I would have built into my app. I also found the [Quantified Self subreddit](https://www.reddit.com/r/QuantifiedSelf/), which is a community of folks conducting similar studies on themselves. The subreddit is not incredibly active, but it has good resources. Folks have posted incredibly detailed information about the results of their own experiments as well as reviews of things like tracking devices and supplements. I'll use the subreddit as a reference as I explore analyses and choose a daily wearable.
+
+I'll be creating all my behavioral data collection forms in Reflect, which will make for relatively easy form modification and exporting. I'd like to automate as much as possible, but behavioral data likely needs to be self-reported for now.
+
+I do have an idea for a device that lives on the bathroom counter and has a simple button and LED for certain behaviors that I want to track. I'm imagining a button for flossing, a button for taking vitamins, etc. At the end of the day, I'd push a "submit" button and it would update a database with that day's behaviors. It isn't a short-term goal but it would be an interesting little project.
+
+#### Health Data Collection
+
+I've wanted a wearable tracking device for a while now. I keep coming back to the Whoop and the Apple Watch. In an ideal world, I might have both. Realistically, there are pros and cons to each. The Apple Watch does more than simply health data collection, and it integrates with my iPhone very nicely. On the other hand, I already wear a watch so I'd have no use for my other watches. It's also quite expensive. The Whoop can be worn around the bicep and can be charged while it's worn. However, it has a subscription fee to access data, which is a huge turn-off for me. I'll probably end up with an Apple Watch at some point.
+
+I also want to track other health metrics like weight and temperature. For now, these can be done manually. It would be fun to build a system that automates the data entry part of these measurements eventually as well.
+
+#### Mood Data Collection
+
+I read recently about workplace happiness and morale. The takeaway resonated with me. Work is not always, if ever, going to make me happy. Nor is it fair to expect life to always make me happy. A better metric to investigate is morale. Even if I have a bad day or rough patch, high morale will carry me forward. I am tailoring my mood-related questions to account for that.
+
+#### Environmental Data Collection
+
+The first environmental factor to track is weather. I think I'll probably just hit an API and grab the overall conditions and high temperature. I don't need a ton of detail here.
+
+The second environmental variable is my actual ambient environment. I can buy a relatively cheap sensor that collects temperature, air quality, and humidity. I'm interested to see how my sleep quality correlates with my room temperature, among other relationships.
 
 
 
