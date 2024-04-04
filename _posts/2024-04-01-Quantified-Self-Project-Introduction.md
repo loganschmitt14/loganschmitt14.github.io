@@ -1,5 +1,13 @@
 ## Quantified Self Introduction
 
+---
+layout: post
+title: "Quantified Self Project Introduction"
+description: "Starting a personal data collection and analysis project"
+date: 2024-04-01T07:00:00-07:00
+tags: Quantified Self
+---
+
 ### Premise
 
 I watched a TED Talk recently called [*Own Your Body's Data*](https://www.youtube.com/watch?v=_GMVTJ9ZKVc). I highly recommend watching it for yourself. Talithia gives great examples of tracking personal data as a tool for taking ownership of your health. 
