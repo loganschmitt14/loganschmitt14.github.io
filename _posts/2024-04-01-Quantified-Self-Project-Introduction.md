@@ -3,7 +3,7 @@ layout: post
 title: Quantified Self Project Introduction
 description: Starting a personal data collection and analysis project
 date: 2024-04-01T07:00:00-07:00
-tags: Quantified Self
+tags: Quantified-Self
 ---
 
 ## Quantified Self Introduction

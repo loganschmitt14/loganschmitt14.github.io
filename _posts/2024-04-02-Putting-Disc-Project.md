@@ -1,4 +1,12 @@
-## Dead Zero Putting Disk
+---
+layout: post
+title: Dead Zero Putting Disk Project Introduction
+description: Integrating an Accelerometer into a Golf Training Aid
+date: 2024-04-02T07:00:00-07:00
+tags: Putting-Disk
+---
+
+## Dead Zero Putting Disk Prototype Project
 
 ### Premise
 My dad designed a golf training aid a number of years ago called the [Dead Zero Putting Disk](http://deadzeroputting.com). The premise is simple: if your putt hits the disk at an appropriate speed, it would have gone in the hole. "Appropriate speed" is the key phrase here. Dave Pelz, a well-known golf instructor, claimed that the optimal speed for a putt would see the ball stop no more than 17 inches past the hole if it missed. The logic is that the putt needs to be going slow enough to fall into the hole if it catches the lip.
