@@ -25,3 +25,5 @@ I **love** dark mode. I use it on all my devices, at all times. It's quite jarri
   DarkReader.auto( {brightness: 100, contrast: 90, sepia: 10} );
 </script>
 ```
+
+### 
