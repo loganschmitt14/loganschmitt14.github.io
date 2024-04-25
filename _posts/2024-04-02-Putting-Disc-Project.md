@@ -21,11 +21,18 @@ Knowing the economics of making these putting disks, I don't think the accelerom
 
 Initially, I figured I should do some test impacts with the accelerometer on the disk and then calculate a force threshold that would classify impacts as "too firm" or "just right." I had a number of concerns with this approach:  How could I correctly classify a glancing blow? Would I have to align accelerometer with the line of the putt for consistent readings? Would I need a second accelerometer to account for side blows?
 
-I connected the device to my computer to check out the data stream. To my surprise, the accelerometer provides much more data than I anticipated. 
+I connected the device to my computer to check out the data stream. To my surprise, the accelerometer provides much more data than I anticipated: 
 
-### Features here ### 
+* Time
+* Acceleration X(g), Acceleration Y(g), Acceleration Z(g)
+* Angular velocity X(°/s), Angular velocity Y(°/s), Angular velocity Z(°/s)
+* Angle X(°), Angle Y(°), Angle Z(°)
+* Magnetic field X(ʯt), Magnetic field Y(ʯt), Magnetic field Z(ʯt)
+* Temperature (℃)
+* Quaternions 0, Quaternions 1, Quaternions 2, Quaternions 3
+* Shift X, Shift Y, ShiftZ
 
-It became immediately obvious that I should train a model on these features to classify impacts instead. It would be a great data science project with real world applications, even if the device remains a prototype.
+That's 21 total features (although Temperature will likely be omitted). It became immediately obvious that I should train a model on these features to classify impacts instead. It would be a great data science project with real world applications, even if the device remains a prototype.
 
 ### Experimental Design
 
