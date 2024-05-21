@@ -5,6 +5,7 @@ description: Big Cedar Lodge Golf Trip - Day 1
 date: 2024-05-21T07:00:00-07:00
 tags: Golf
 ---
+# Big Cedar Lodge Day 1
 ## The Schmitt Invitational
 The inaugural Schmitt Invitational took place in 2021 at the legendary Bandon Dunes. Just in time for the opening of Sheep Ranch and just before I jetted off to Europe for 6 months, it marked a return to normalcy after the surreality of 2020. 
 

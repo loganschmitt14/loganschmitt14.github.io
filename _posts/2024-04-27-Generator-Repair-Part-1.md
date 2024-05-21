@@ -5,6 +5,7 @@ description: My first taste of small engine repairs
 date: 2024-04-27T07:00:00-07:00
 tags: Repairs
 ---
+# Generator Repair, Part 1
 ## The Problem
 My parents have had a gas generator for almost 15 years. They got it after a freak snowstorm (Snowmageddon 2010) knocked out power to the neighborhood for the better part of a week. They've used it very sporadically since then, typically just to run the spare fridge if power goes out for more than a couple of hours. 
 

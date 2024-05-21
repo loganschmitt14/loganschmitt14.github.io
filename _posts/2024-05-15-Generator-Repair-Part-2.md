@@ -5,6 +5,7 @@ description: That wasn't so bad
 date: 2024-05-15T07:00:00-07:00
 tags: Repairs
 ---
+# Generator Repair, Part 2
 ## Teardown, Continued
 I managed to extract the main jet after drilling out its center bore and using a tapered extraction bit. In doing so I drilled into the emulsion tube, which was annoying. Thankfully, most of the carburetor repair kits came with a main jet and multiple emulsion tubes, so it wasn't a big deal. Check out the corroded jet and emulsion tube below.
 
