@@ -40,3 +40,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+url: "https://loganschmitt14.github.io/"
+baseurl: ""

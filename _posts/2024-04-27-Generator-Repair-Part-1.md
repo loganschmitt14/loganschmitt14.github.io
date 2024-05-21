@@ -17,7 +17,8 @@ My dad is about ready to just get rid of the thing. I figure even if I have to r
 ## Teardown
 So far, I've followed a couple YouTube videos to tear down the carburetor. Of course, I fell victim to the common pitfall of stripping out the main jet. You can see it slightly out-of-focus in the center of the image below. The brass jet often becomes stuck and its screw slot easily strips. I already have a screw extractor on order so I can get the thing out. 
 
-![The main jet is coated in some green gunk](../docs/assets/images/generator/carb_body.jpg)
+![The main jet is coated in some green gunk](/docs/assets/images/generator/carb_body.jpg)
+
 
 Other than that, things are looking up. The bottom bolt is hollow and has a pair of transverse through holes. Both were completely clogged with rust and grime, so that alone could have been the culprit. The main jet is also quite disgusting, though, so hopefully a brand new one will make a ton of difference as well.
 
