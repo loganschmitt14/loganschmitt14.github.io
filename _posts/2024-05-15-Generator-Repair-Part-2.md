@@ -12,7 +12,7 @@ I managed to extract the main jet after drilling out its center bore and using a
 ## Reassembly
 The new jet and emulsion tube aren't a perfect match, but most of these aftermarket parts seem to be for tuning go-kart engines. I figure my generator should be okay running at a slightly sub-optimal mix though. The new and old parts are shown side-by-side below. They are laid on a shop rag, so those are towel fibers for scale. These parts are quite small. The smallest holes can only be cleared with a sewing needle. No wonder they clog up easily.
 
-![The new emulsion tube and main jet next to their older counterparts](../docs/assets/images/generator/replacement.jpg)
+![The new emulsion tube and main jet next to their older counterparts](/docs/assets/images/generator/replacement.jpg)
 
 ## Moment of Truth?
 I replaced the emulsion tube and main jet with the new parts and carefully reassembled the generator. I opened the fuel line valve and immediately saw gasoline spilling out of the bowl of the carb. I suspected the gaskets were probably too far gone to be reused but I had tried anyway. No matter, they could be replaced for a couple bucks too.

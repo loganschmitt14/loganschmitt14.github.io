@@ -19,13 +19,13 @@ The course winds along the top of the plateau, then up and down along the cliffs
 We had a blast playing the course, even if the middle stretch challenged us. The 13th is a friendly homecoming hole and its central bowl was funneling good shots toward the cup. My dad nearly holed his shot while I filmed from the green, which was another highlight of the day. We capped the evening off with dinner, a putting contest, and a gorgeous sunset.
 ### Images
 #### The walking path from the 9th green to the 10th tee 
-![A walking path climbs through the cliffs from the 9th green to the 10th tee](../docs/assets/images/golf/mtn_top_path.jpg)
+![A walking path climbs through the cliffs from the 9th green to the 10th tee](/docs/assets/images/golf/mtn_top_path.jpg)
 
 #### Hitting my tee shot on 10
-![My tee shot on 10](../docs/assets/images/golf/mtn_top_swing.jpg)
+![My tee shot on 10](/docs/assets/images/golf/mtn_top_swing.jpg)
 
 #### 12th hole
-![The 12th hole at Mountain Top](../docs/assets/images/golf/mtn_top_12.jpg)
+![The 12th hole at Mountain Top](/docs/assets/images/golf/mtn_top_12.jpg)
 
 #### 13th hole and the Mountain Top Pro Shop
-![The 13th hole and pro shop at Mountain Top](../docs/assets/images/golf/mtn_top_club.jpg)
+![The 13th hole and pro shop at Mountain Top](/docs/assets/images/golf/mtn_top_club.jpg)
